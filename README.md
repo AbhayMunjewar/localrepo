@@ -1,6 +1,2 @@
-<!-- 
-
-
-
-Raksha Project
-Flutter App Repository
+Raksha App
+Flutter Project
